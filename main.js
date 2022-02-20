@@ -3,7 +3,7 @@
 
 // console.log('Happy Birthday' + ' ' + name)
 function bubbles(){
-var count = 200;
+var count = 400;
 var section = document.querySelector('section');
 var i = 0;
 while (i < count){
